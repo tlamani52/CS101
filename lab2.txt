@@ -1,0 +1,6 @@
+Angel Tlamani 
+8/31/2023 11:34 PM 
+I am using windows 11 pro
+I I am not familiar with C++
+I have a little bit of experience in python, but that was a long time ago
+I am confused with the pwd command. What does pathing do exactly?
